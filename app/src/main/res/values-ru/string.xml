@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources><string name="app_name">Тарков: Цены и Карты</string>
+    <string name="title_home">Главная</string>
+    <string name="title_market">Цены</string>
+    <string name="title_map">Карты</string>
+    <string name="menu_update">Обновить</string>
+    <string name="hello_text">Хорошего рейда!\nСкоро тут будут новые функции</string></resources>

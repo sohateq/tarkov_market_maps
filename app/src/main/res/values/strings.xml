@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tarkov Market &amp; Maps</string>
+    <string name="title_home">Home</string>
+    <string name="title_market">Market</string>
+    <string name="title_map">Map</string>
+    <string name="menu_update">Update</string>
+    <string name="hello_text">Have a lucky raid!\nNew features coming soon</string>
+</resources>

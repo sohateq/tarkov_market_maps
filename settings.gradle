@@ -1,0 +1,2 @@
+rootProject.name='Tarkov Market & Maps'
+include ':app'
